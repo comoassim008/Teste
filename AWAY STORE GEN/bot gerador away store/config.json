@@ -1,0 +1,7 @@
+{
+    "token": "TOKEN BOT",
+    "clientid": "ID DO CARGO PARA GERADOR FREE",
+    "cargo_acesso_premium": "ID DO CARGO PARA GERADOR PAGO",
+    "cargo_acesso_booster": "ID DO CARGO PARA GERADOR BOOSTER",
+    "embed_color": "#ff00ff"
+}
